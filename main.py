@@ -4,7 +4,6 @@ import threading
 
 bot = TeleBot("Token")
 
-# Album data storage
 album_data = {}
 DEFAULT_DELAY = 0.6
 
